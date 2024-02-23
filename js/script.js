@@ -9,7 +9,7 @@ for (let i = 0; i < email.length; i++) {
         elementoPresente = true;
         break;
     }
-}
+};
 
 if (elementoPresente) {
     console.log("L'elemento è presente nell'array.");
