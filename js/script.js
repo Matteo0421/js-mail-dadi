@@ -16,3 +16,17 @@ if (elementoPresente) {
 } else {
     console.log("L'elemento non è presente nell'array.");
 }
+
+const numeroGiocatore =  Math.ceil(Math.random() * 6);
+console.log(numeroGiocatore);
+
+const numeroComputer =  Math.ceil(Math.random() * 6);
+console.log(numeroComputer);
+
+if (numeroGiocatore > numeroComputer) {
+  console.log('Hai vinto');
+}else if(numeroGiocatore < numeroComputer) {
+  console.log('Hai perso');
+}else {
+  console.log('Hai pareggiato');
+};
