@@ -12,7 +12,8 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 
 
  ## SBOLGIMENTO 1ES
-1.  
-2. 
-3. 
-4. 
+1. creare un array con dei valori 
+2. creare una variabile con elemento da cercare 
+3. impostare gli elementi presenti come un valore false
+4. creare un ciclo for per cercare l'elemento
+5. creare un ciclo if per stampare il risultati
