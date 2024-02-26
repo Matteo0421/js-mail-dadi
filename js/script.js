@@ -7,7 +7,6 @@ let elementoPresente = false;
 for (let i = 0; i < email.length; i++) {
     if (email[i] === emailDaCercare) {
         elementoPresente = true;
-        break;
     }
 };
 
