@@ -1,4 +1,4 @@
-const email = ['matteo1gmail', 'matteo2gmail', 'matteo3gmail', 'matteo4gmail', 'matteo5gmail'];
+const email = ['matteo1@gmail.com', 'matteo2@gmail.com', 'matteo3@gmail.com', 'matteo4@gmail.com', 'matteo5@gmail.com'];
 console.log(email);
 const emailDaCercare = prompt('inserisci la tua mail?');
 console.log(emailDaCercare);
